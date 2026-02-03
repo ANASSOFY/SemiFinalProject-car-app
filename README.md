@@ -9,11 +9,15 @@ CarStore is a mobile application that helps users browse cars easily, view full 
 > 🎥 Demo Video Will Be Added Here  
 ( https://youtube.com/shorts/ohMtj-Rsv7o?feature=share )
 
+
+https://github.com/user-attachments/assets/5d50f4f4-7cae-4ffb-82d2-3324df13e7cd
+
+
 ---
 
 ## 👥 Team Members
 
-- Anas Sody   
+- Anas Sofy   
 - Mostafa Alaa
 - Hosam Aldeghedy
 ---
